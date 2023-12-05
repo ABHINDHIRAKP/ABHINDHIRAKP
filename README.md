@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I'm an AI fanatic
+### I'm currently involved in understanding about Machine Learning 
+### I'm looking forward to collaborating with other AI enthusiasts
 
 <!--
 **ABHINDHIRAKP/ABHINDHIRAKP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
