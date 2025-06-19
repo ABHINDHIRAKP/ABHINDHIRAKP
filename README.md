@@ -2,7 +2,7 @@
 ### I'm an Aritificial Intelligence and Machine Learning undergrad
 ### Currently involved in MERN web development 
 
-
+---
 
 ## My Leetcode Info
 
