@@ -1,8 +1,7 @@
 
-### I'm an AI fanatic
-### I'm currently involved in exploring Machine Learning and Neural Networks
-### I'm keenly interested in contributing to the future of AGI (Artificial General Intelligence)
-### I'm looking forward to collaborating with other AI enthusiasts
+### I'm an Aritificial Intelligence and Machine Learning undergrad
+### Currently involved in MERN web development 
+
 
 
 ## My Leetcode Info
